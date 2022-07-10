@@ -55,6 +55,7 @@ Random Forest model was outperforming the two other (Logistic regression and Gra
 Data balancing was then applied in order to overcome this issue, which proved to be successful. All model improved a lot, and Random Forest (which was already very good) is now able perfectly distinguish rock and hip-hop songs.
 In order to still push the models to the limit PCA was applied to reduce feature numbers by creating new components, but this approach did not help at this particular dataset.
 
+Blog post of the project: https://medium.com/@andrskriston/rock-or-hip-hop-algorithms-can-tell-us-608f9e09390f
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
